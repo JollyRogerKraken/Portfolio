@@ -3,8 +3,20 @@ Esse foi um site teste de um portfolio que eu fiz na época como teste.
 
 ## 🖼 Screenshot da tela da aplicação 
 
- <img src=""> 
+ <img src="https://github.com/JollyRogerKraken/Portfolio/blob/main/img2/Screenshot_1.png"> 
+ 
+ <img src="https://github.com/JollyRogerKraken/Portfolio/blob/main/img2/Screenshot_2.png"> 
+ 
+ <img src="https://github.com/JollyRogerKraken/Portfolio/blob/main/img2/Screenshot_3.png"> 
+ 
+ <img src="https://github.com/JollyRogerKraken/Portfolio/blob/main/img2/Screenshot_4.png"> 
+ 
+ <img src="https://github.com/JollyRogerKraken/Portfolio/blob/main/img2/Screenshot_5.png"> 
 
+ <img src="https://github.com/JollyRogerKraken/Portfolio/blob/main/img2/Screenshot_7.png"> 
+ 
+ <img src="https://github.com/JollyRogerKraken/Portfolio/blob/main/img2/Screenshot_8.png"> 
+ 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
